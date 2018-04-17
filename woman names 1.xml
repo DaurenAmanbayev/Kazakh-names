@@ -1,0 +1,2993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMenName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MenName>
+    <Cyrillic>Агила</Cyrillic>
+    <Latin>Agila</Latin>
+    <National>арабск</National>
+    <Description>агиля – умная, мудрая  </Description>
+    <Raw>Агила (арабское) агиля – умная, мудрая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аделя</Cyrillic>
+    <Latin>Adelya</Latin>
+    <National>арабск</National>
+    <Description>справедливая  Это имя встречается и в немецком языке, и означает – благородный человек  </Description>
+    <Raw>Аделя (арабское) справедливая. Это имя встречается и в немецком языке, и означает – благородный человек.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Адиет</Cyrillic>
+    <Latin>Adiet</Latin>
+    <National>арабск</National>
+    <Description>хадийа – дар, подарок, дарить  Имя подчеркивает чувство благодарности родителей за рождение ребенка  </Description>
+    <Raw>Адиет (арабское) хадийа – дар, подарок, дарить. Имя подчеркивает чувство благодарности родителей за рождение ребенка.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Адеми</Cyrillic>
+    <Latin>Ademi</Latin>
+    <National>казахск</National>
+    <Description>изящная, красивая  </Description>
+    <Raw>Адеми (казахское) изящная, красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Адилет</Cyrillic>
+    <Latin>Adilet</Latin>
+    <National>арабск</National>
+    <Description>справедливый, честный  </Description>
+    <Raw>Адилет (арабское) справедливый, честный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Адина</Cyrillic>
+    <Latin>Adina</Latin>
+    <National>персидск</National>
+    <Description>имеет значение – пятница  У мусульман пятница считается праздником  Детей рожденных в этот день, называют этим именем  У казахов этим именем называли только девочек, а у народов Ирана – мальчиков  </Description>
+    <Raw>Адина (персидское) имеет значение – пятница. У мусульман пятница считается праздником. Детей рожденных в этот день, называют этим именем. У казахов этим именем называли только девочек, а у народов Ирана – мальчиков.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Адия</Cyrillic>
+    <Latin>Adiya</Latin>
+    <National>арабск</National>
+    <Description>дар, награда, подарок  </Description>
+    <Raw>Адия (арабское) дар, награда, подарок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Ажар</Cyrillic>
+    <Latin>Azhar</Latin>
+    <National>казахск</National>
+    <Description>облик, вид, красивая, приятная, заметная, обаятельная  Про внешнюю красоту людей в казахском народе говорят «ажарлы» – красивая  Азапа (арабское) мука, страдание  </Description>
+    <Raw>Ажар (казахское) облик, вид, красивая, приятная, заметная, обаятельная. Про внешнюю красоту людей в казахском народе говорят «ажарлы» – красивая. Азапа (арабское) мука, страдание.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Азель</Cyrillic>
+    <Latin>Azel`</Latin>
+    <National>арабск</National>
+    <Description>вечный, вечность  </Description>
+    <Raw>Азель (арабское) вечный, вечность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Азиза</Cyrillic>
+    <Latin>Aziza</Latin>
+    <National>арабск</National>
+    <Description>почетная, дорогая, великая, милая, драгоценная  </Description>
+    <Raw>Азиза (арабское) почетная, дорогая, великая, милая, драгоценная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Азима</Cyrillic>
+    <Latin>Azima</Latin>
+    <National>арабск</National>
+    <Description>женственная, великая  </Description>
+    <Raw>Азима (арабское) женственная, великая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аида</Cyrillic>
+    <Latin>Aida</Latin>
+    <National>арабск</National>
+    <Description>польза, вознаграждение  В наше время в казахском народе это имя встречается часто  </Description>
+    <Raw>Аида (арабское) польза, вознаграждение. В наше время в казахском народе это имя встречается часто.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айасель</Cyrillic>
+    <Latin>Ajasel`</Latin>
+    <National>казахск</National>
+    <Description>ай означает луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах   Асель (арабское) – мед, сладкая  </Description>
+    <Raw>Айасель (казахское) ай означает луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах.  Асель (арабское) – мед, сладкая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айат</Cyrillic>
+    <Latin>Ajat</Latin>
+    <National>арабск</National>
+    <Description>1  знак; 2 чудо; 3  название одного текста Корана – священной книги мусульман  </Description>
+    <Raw>Айат (арабское) 1. знак; 2.чудо; 3. название одного текста Корана – священной книги мусульман.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айбану</Cyrillic>
+    <Latin>Ajbanu</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Бану (персидское) – девушка  </Description>
+    <Raw>Айбану (казахское) ай – означает луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Бану (персидское) – девушка.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айбиби</Cyrillic>
+    <Latin>Ajbibi</Latin>
+    <National>казахск</National>
+    <Description>ай означает – луна  Биби – это самая распространенная приставка к женским именам у народов Средней Азии и казахов, башкир и татар  Тюркское слово биби означает «госпожа»  У приставки биби есть и особая функция: она служит определителем женских имен  Например, мальчиков называют обычно Жамал  Это имя могли давать и девочкам, но почти всегда с компонентом биби  Например, Бибижамал или Жамалбиби  </Description>
+    <Raw>Айбиби (казахское) ай означает – луна. Биби – это самая распространенная приставка к женским именам у народов Средней Азии и казахов, башкир и татар. Тюркское слово биби означает «госпожа». У приставки биби есть и особая функция: она служит определителем женских имен. Например, мальчиков называют обычно Жамал. Это имя могли давать и девочкам, но почти всегда с компонентом биби. Например, Бибижамал или Жамалбиби.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айбике</Cyrillic>
+    <Latin>Ajbike</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Бике (казахское) – дама, красавица  В казахском языке к девушкам обращаются со словом бикеш, что означает – красавица  </Description>
+    <Raw>Айбике (казахское) ай – означает луна. Бике (казахское) – дама, красавица. В казахском языке к девушкам обращаются со словом бикеш, что означает – красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айганым</Cyrillic>
+    <Latin>Ajgany`m</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Ганым – происходит от слова ханум, что означает принцесса или госпожа  Айгерим (казахское) ай – луна  Слово керим (арабское) означает – щедрая  </Description>
+    <Raw>Айганым (казахское) ай – означает луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Ганым – происходит от слова ханум, что означает принцесса или госпожа. Айгерим (казахское) ай – луна. Слово керим (арабское) означает – щедрая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айгуль</Cyrillic>
+    <Latin>Ajgul`</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Гуль – цветок, красота, изящество, миловидный  Лунный цветок, можно передать смысл – как сияющий цветок  </Description>
+    <Raw>Айгуль (казахское) ай – означает луна. Гуль – цветок, красота, изящество, миловидный. Лунный цветок, можно передать смысл – как сияющий цветок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айдан</Cyrillic>
+    <Latin>Ajdan</Latin>
+    <National>казахск</National>
+    <Description>ай означает луна  Слово дан – сокращенная форма слова дана, что с казахского означает – мудрость  </Description>
+    <Raw>Айдан (казахское) ай означает луна. Слово дан – сокращенная форма слова дана, что с казахского означает – мудрость.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айдана</Cyrillic>
+    <Latin>Ajdana</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Слово дана (казахское) – знающая, мудрая  </Description>
+    <Raw>Айдана (казахское) ай – означает луна. Слово дана (казахское) – знающая, мудрая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айдара</Cyrillic>
+    <Latin>Ajdara</Latin>
+    <National>казахск</National>
+    <Description>айозначает луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Дара (казахское) – единственная, особая  </Description>
+    <Raw>Айдара (казахское) айозначает луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Дара (казахское) – единственная, особая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айдария</Cyrillic>
+    <Latin>Ajdariya</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  </Description>
+    <Raw>Айдария (казахское) ай – означает луна.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Дария</Cyrillic>
+    <Latin>Dariya</Latin>
+    <National>древнеперсидское</National>
+    <Description>(древнеперсидское) море, большая река  Смысловое значение имени – великодушная, благодушная  </Description>
+    <Raw>Дария – (древнеперсидское) море, большая река. Смысловое значение имени – великодушная, благодушная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжайна</Cyrillic>
+    <Latin>Ajzhajna</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  В переводе с казахского жайна – процветать, блестеть, сиять  </Description>
+    <Raw>Айжайна (казахское) ай – означает луна. В переводе с казахского жайна – процветать, блестеть, сиять.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжаксым</Cyrillic>
+    <Latin>Ajzhaksy`m</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Жаксым – моя хорошая  </Description>
+    <Raw>Айжаксым (казахское) ай – означает луна. Жаксым – моя хорошая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжамал</Cyrillic>
+    <Latin>Ajzhamal</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  (арабское) жамал – красота, прелесть  </Description>
+    <Raw>Айжамал (казахское) ай – означает луна. (арабское) жамал – красота, прелесть.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжан</Cyrillic>
+    <Latin>Ajzhan</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Жан в персидском и казахском языках – дыхание, душа, жизнь  В казахском народе это слово используется в ласкательной форме  </Description>
+    <Raw>Айжан (казахское) ай – означает луна. Жан в персидском и казахском языках – дыхание, душа, жизнь. В казахском народе это слово используется в ласкательной форме.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжанар</Cyrillic>
+    <Latin>Ajzhanar</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Жанар (казахское) блеск, сияние  </Description>
+    <Raw>Айжанар (казахское) ай – означает луна. Жанар (казахское) блеск, сияние.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжания</Cyrillic>
+    <Latin>Ajzhaniya</Latin>
+    <National>казахско-персидск</National>
+    <Description>ай – означает луна  (персидское) жания – милая  </Description>
+    <Raw>Айжания (казахско-персидское) ай – означает луна. (персидское) жания – милая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжаркын</Cyrillic>
+    <Latin>Ajzharky`n</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Жаркын – светлый, лучезарный, милый  </Description>
+    <Raw>Айжаркын (казахское) ай – означает луна. Жаркын – светлый, лучезарный, милый.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айжарык</Cyrillic>
+    <Latin>Ajzhary`k</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Жарык – светлый, свет  Имя означает – ночная красота  </Description>
+    <Raw>Айжарык (казахское) ай – означает луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Жарык – светлый, свет. Имя означает – ночная красота.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айзада</Cyrillic>
+    <Latin>Ajzada</Latin>
+    <National>казахско-персидск</National>
+    <Description>ай – означает луна  Иранское зада – дитя, ребенок  Значение имени – дитя, сияющее подобно луне  </Description>
+    <Raw>Айзада (казахско-персидское) ай – означает луна. Иранское зада – дитя, ребенок. Значение имени – дитя, сияющее подобно луне.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айзара</Cyrillic>
+    <Latin>Ajzara</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  (арабское) зара – золото  </Description>
+    <Raw>Айзара (казахское) ай – означает луна. (арабское) зара – золото.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айзейнеп</Cyrillic>
+    <Latin>Ajzejnep</Latin>
+    <National>казахск</National>
+    <Description>ай – означает луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Зейнеп (арабское) — полная, крепкая  Зайнаб имя дочери Пророка Мухаммада (мир и милость ему Аллаха) </Description>
+    <Raw>Айзейнеп (казахское) ай – означает луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Зейнеп (арабское) — полная, крепкая. Зайнаб имя дочери Пророка Мухаммада (мир и милость ему Аллаха)</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айзере</Cyrillic>
+    <Latin>Ajzere</Latin>
+    <National>казахско-персидск</National>
+    <Description>ай – луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Зере от иранского слова зар – золото  </Description>
+    <Raw>Айзере (казахско-персидское) ай – луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Зере от иранского слова зар – золото.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айзиба</Cyrillic>
+    <Latin>Ajziba</Latin>
+    <National>казахско-персидск</National>
+    <Description>ай означает луна  Иранское зиба – красивая, нарядная, прекрасная  </Description>
+    <Raw>Айзиба (казахско-персидское) ай означает луна. Иранское зиба – красивая, нарядная, прекрасная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айман</Cyrillic>
+    <Latin>Ajman</Latin>
+    <National>арабск</National>
+    <Description>1  известная, ясная, славная 2  клятва, присяга  Есть известный лирический эпос — «Айман-Шолпан« </Description>
+    <Raw>Айман (арабское) 1. известная, ясная, славная 2. клятва, присяга. Есть известный лирический эпос — «Айман-Шолпан«</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аймария</Cyrillic>
+    <Latin>Ajmariya</Latin>
+    <National>казахск</National>
+    <Description>ай означает «луна»  Мария (древнееврейское): 1  превосходная, прекрасная; 2  Высокопоставленная госпожа  Имя матери пророка Исы (Исуса) (мир ему)  </Description>
+    <Raw>Аймария (казахское) ай означает «луна». Мария (древнееврейское): 1. превосходная, прекрасная; 2. Высокопоставленная госпожа. Имя матери пророка Исы (Исуса) (мир ему).</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аймат</Cyrillic>
+    <Latin>Ajmat</Latin>
+    <National>казахско-арабск</National>
+    <Description>ай – луна  Слово мат – сокращенная форма от арабского имени Мухаммад  — «хвалимый»  В честь Пророка Мухаммада (с а в )  </Description>
+    <Raw>Аймат (казахско-арабское) ай – луна. Слово мат – сокращенная форма от арабского имени Мухаммад  — «хвалимый». В честь Пророка Мухаммада (с.а.в.).</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айна</Cyrillic>
+    <Latin>Ajna</Latin>
+    <National>казахск</National>
+    <Description>означает «зеркало»  Зеркало – символ чистоты  Казахское слово айнадай – чистая, как зеркало  Айнаш (казахское) зеркальце, ласкательная форма имени  </Description>
+    <Raw>Айна (казахское) означает «зеркало». Зеркало – символ чистоты. Казахское слово айнадай – чистая, как зеркало. Айнаш (казахское) зеркальце, ласкательная форма имени.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айнек</Cyrillic>
+    <Latin>Ajnek</Latin>
+    <National>арабск</National>
+    <Description>эйн – глаза  </Description>
+    <Raw>Айнек (арабское) эйн – глаза.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айнур</Cyrillic>
+    <Latin>Ajnur</Latin>
+    <National>казахско-арабск</National>
+    <Description>ай означает – луна  Нур (арабское) – сияние, блеск  </Description>
+    <Raw>Айнур (казахско-арабское) ай означает – луна. Нур (арабское) – сияние, блеск.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айнурия</Cyrillic>
+    <Latin>Ajnuriya</Latin>
+    <National>казахско-арабск</National>
+    <Description>ай – луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  (Арабское) нурия – сияющая, блестящая  </Description>
+    <Raw>Айнурия (казахско-арабское) ай – луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. (Арабское) нурия – сияющая, блестящая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айса</Cyrillic>
+    <Latin>Ajsa</Latin>
+    <National>арабск</National>
+    <Description>имя Айса – фонетически измененная форма имени Иса   Иса – Пророк Аллаха (Исус) один из пяти великих пророков  </Description>
+    <Raw>Айса (арабское) имя Айса – фонетически измененная форма имени Иса.  Иса – Пророк Аллаха (Исус) один из пяти великих пророков.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айсана</Cyrillic>
+    <Latin>Ajsana</Latin>
+    <National>казахско-арабск</National>
+    <Description>ай – луна  Сана (арабское) – вторая  </Description>
+    <Raw>Айсана (казахско-арабское) ай – луна. Сана (арабское) – вторая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айсара</Cyrillic>
+    <Latin>Ajsara</Latin>
+    <National>казахск</National>
+    <Description>ай – луна  (древнееврейское) имя Сара 1  избранная, благородная, драгоценная, хорошая, госпожа; 2   клятва, присяга   Сара жена Пророка Ибрахима (мир ему) </Description>
+    <Raw>Айсара (казахское) ай – луна. (древнееврейское) имя Сара 1. избранная, благородная, драгоценная, хорошая, госпожа; 2.  клятва, присяга.  Сара жена Пророка Ибрахима (мир ему)</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айсауле</Cyrillic>
+    <Latin>Ajsaule</Latin>
+    <National>казахск</National>
+    <Description>ай – луна  Сауле – луч, сияние, свет  </Description>
+    <Raw>Айсауле (казахское) ай – луна. Сауле – луч, сияние, свет.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айсулу</Cyrillic>
+    <Latin>Ajsulu</Latin>
+    <National>казахск</National>
+    <Description>ай – луна  Сулу означает – красивая  </Description>
+    <Raw>Айсулу (казахское) ай – луна. Сулу означает – красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айша</Cyrillic>
+    <Latin>Ajsha</Latin>
+    <National>арабск</National>
+    <Description>– живущая  Айша (да будет доволен ей Аллах) мать правоверных, жена Пророка Мухаммада (мир ему и благословение Аллаха)  </Description>
+    <Raw>Айша (арабское) – живущая. Айша (да будет доволен ей Аллах) мать правоверных, жена Пророка Мухаммада (мир ему и благословение Аллаха).</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айшабиби</Cyrillic>
+    <Latin>Ajshabibi</Latin>
+    <National>арабск</National>
+    <Description>Айша – живущая  Айша (да будет доволен ей Аллах) мать правоверных, жена Пророка Мухаммада (мир ему и благословение Аллаха)  Биби – это самая распространенная приставка к женским именам у народов Средней Азии, казахов, башкир и татар  Биби – госпожа, тюркское слово  У приставки биби есть и особая функция: она служит определителем женских имен  </Description>
+    <Raw>Айшабиби (арабское) Айша – живущая. Айша (да будет доволен ей Аллах) мать правоверных, жена Пророка Мухаммада (мир ему и благословение Аллаха). Биби – это самая распространенная приставка к женским именам у народов Средней Азии, казахов, башкир и татар. Биби – госпожа, тюркское слово. У приставки биби есть и особая функция: она служит определителем женских имен.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айшагуль</Cyrillic>
+    <Latin>Ajshagul`</Latin>
+    <National>арабск</National>
+    <Description>Айша – живущая  Гуль – цветочек, символ красоты  Айшайым (арабское) моя Айша  </Description>
+    <Raw>Айшагуль (арабское) Айша – живущая. Гуль – цветочек, символ красоты. Айшайым (арабское) моя Айша.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айша</Cyrillic>
+    <Latin>Ajsha</Latin>
+    <National>–</National>
+    <Description>живущая  Айша (да будет доволен ей Аллах) мать правоверных, жена Пророка Мухаммада (мир ему и благословение Аллаха)  </Description>
+    <Raw>Айша – живущая. Айша (да будет доволен ей Аллах) мать правоверных, жена Пророка Мухаммада (мир ему и благословение Аллаха).</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айшуак</Cyrillic>
+    <Latin>Ajshuak</Latin>
+    <National>казахск</National>
+    <Description>ай – луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Шуак – луч, свет  Красивое казахское имя, означающее лунный свет  </Description>
+    <Raw>Айшуак (казахское) ай – луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Шуак – луч, свет. Красивое казахское имя, означающее лунный свет.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айымбиби</Cyrillic>
+    <Latin>Ajy`mbibi</Latin>
+    <National>казахск</National>
+    <Description>ай означает луна  Биби – это самая распространенная приставка к женским именам у народов Средней Азии, казахов, башкир и татар  Тюркское слово «Биби» означает «госпожа»  У приставки биби есть и особая функция: она служит определителем женских имен  </Description>
+    <Raw>Айымбиби (казахское) ай означает луна. Биби – это самая распространенная приставка к женским именам у народов Средней Азии, казахов, башкир и татар. Тюркское слово «Биби» означает «госпожа». У приставки биби есть и особая функция: она служит определителем женских имен.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айымбике</Cyrillic>
+    <Latin>Ajy`mbike</Latin>
+    <National>казахск</National>
+    <Description>ай – луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  Бике – дама  </Description>
+    <Raw>Айымбике (казахское) ай – луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах. Бике – дама.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айымгуль</Cyrillic>
+    <Latin>Ajy`mgul`</Latin>
+    <National>казахск</National>
+    <Description>ай – луна  Гуль – цветочек, красота, миловидность  </Description>
+    <Raw>Айымгуль (казахское) ай – луна. Гуль – цветочек, красота, миловидность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Айя</Cyrillic>
+    <Latin>Ajya</Latin>
+    <National>арабск</National>
+    <Description>изумительная, чудесная, прекрасная, восхитительная, замечательная, особенная  Так называется наименьшая часть Корана  </Description>
+    <Raw>Айя (арабское) изумительная, чудесная, прекрасная, восхитительная, замечательная, особенная. Так называется наименьшая часть Корана.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акайша</Cyrillic>
+    <Latin>Akajsha</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  В переводе с древнееврейского языка айша означает – живущая, жизнелюбивая  </Description>
+    <Raw>Акайша (казахское) ак – белый символ чистоты и непорочности. В переводе с древнееврейского языка айша означает – живущая, жизнелюбивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акалтын</Cyrillic>
+    <Latin>Akalty`n</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Слово алтын – золото  Чистое золото  </Description>
+    <Raw>Акалтын (казахское) ак – белый символ чистоты и непорочности. Слово алтын – золото. Чистое золото.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбану</Cyrillic>
+    <Latin>Akbanu</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  (персидское)  бану означает – девушка, госпожа  </Description>
+    <Raw>Акбану (казахское) ак – белый символ чистоты и непорочности. (персидское)  бану означает – девушка, госпожа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акайша</Cyrillic>
+    <Latin>Akajsha</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  В переводе с древнееврейского языка айша означает – живущая, жизнелюбивая  </Description>
+    <Raw>Акайша (казахское) ак – белый символ чистоты и непорочности. В переводе с древнееврейского языка айша означает – живущая, жизнелюбивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акалтын</Cyrillic>
+    <Latin>Akalty`n</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Слово алтын — золото  Чистое золото  </Description>
+    <Raw>Акалтын (казахское) ак – белый символ чистоты и непорочности. Слово алтын — золото. Чистое золото.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбану</Cyrillic>
+    <Latin>Akbanu</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  (персидское)  бану означает – девушка, госпожа  </Description>
+    <Raw>Акбану (казахское) ак – белый символ чистоты и непорочности. (персидское)  бану означает – девушка, госпожа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбаян</Cyrillic>
+    <Latin>Akbayan</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Баян (древнетюркское) приветливая, добродушная, крепкая, могучая, богатая; беспредельно счастливый  </Description>
+    <Raw>Акбаян (казахское) ак – белый символ чистоты и непорочности. Баян (древнетюркское) приветливая, добродушная, крепкая, могучая, богатая; беспредельно счастливый.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбиби</Cyrillic>
+    <Latin>Akbibi</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Тюркское –  биби означает госпожа  </Description>
+    <Raw>Акбиби (казахское) ак – белый символ чистоты и непорочности. Тюркское –  биби означает госпожа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбике</Cyrillic>
+    <Latin>Akbike</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Бике означает – дама, красавица  </Description>
+    <Raw>Акбике (казахское) ак – белый символ чистоты и непорочности. Бике означает – дама, красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбопе</Cyrillic>
+    <Latin>Akbope</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Бопе – дитя, малыш  </Description>
+    <Raw>Акбопе (казахское) ак – белый символ чистоты и непорочности. Бопе – дитя, малыш.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акбота</Cyrillic>
+    <Latin>Akbota</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Бота – верблюжонок  Ласкательная форма обращения  </Description>
+    <Raw>Акбота (казахское) ак – белый символ чистоты и непорочности. Бота – верблюжонок. Ласкательная форма обращения.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акгулим</Cyrillic>
+    <Latin>Akgulim</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Гулим – мой цветочек  </Description>
+    <Raw>Акгулим (казахское) ак – белый символ чистоты и непорочности. Гулим – мой цветочек.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акгуль</Cyrillic>
+    <Latin>Akgul`</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Гуль – цветок  </Description>
+    <Raw>Акгуль (казахское) ак – белый символ чистоты и непорочности. Гуль – цветок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акжамал</Cyrillic>
+    <Latin>Akzhamal</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Жамал (арабское) красивая, прекрасная  </Description>
+    <Raw>Акжамал (казахское) ак – белый символ чистоты и непорочности. Жамал (арабское) красивая, прекрасная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акселеу</Cyrillic>
+    <Latin>Akseleu</Latin>
+    <National>казахск</National>
+    <Description>ак означает – белый, добросовестный, лояльный, справедливый, чистый, безгрешный и  безвинный  Селеу (казахское) означает ковыль  Это дикорастущая трава, издалека кажущаяся золотистой  Имя имеет значение – чистый, золотистый  </Description>
+    <Raw>Акселеу (казахское) ак означает – белый, добросовестный, лояльный, справедливый, чистый, безгрешный и  безвинный. Селеу (казахское) означает ковыль. Это дикорастущая трава, издалека кажущаяся золотистой. Имя имеет значение – чистый, золотистый.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аксулу</Cyrillic>
+    <Latin>Aksulu</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Сулу (казахское) – красавица  </Description>
+    <Raw>Аксулу (казахское) ак – белый символ чистоты и непорочности. Сулу (казахское) – красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Актилек</Cyrillic>
+    <Latin>Aktilek</Latin>
+    <National>казахск</National>
+    <Description>ак имеет значения – белый, чистый; тилек значит – желание, то есть благое пожелание  Если у родителей исполнилось их желание родить ребенка, ребенку дают это имя  </Description>
+    <Raw>Актилек (казахское) ак имеет значения – белый, чистый; тилек значит – желание, то есть благое пожелание. Если у родителей исполнилось их желание родить ребенка, ребенку дают это имя.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Актолкын</Cyrillic>
+    <Latin>Aktolky`n</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Толкын с казахского языка – волна  Белая волна  </Description>
+    <Raw>Актолкын (казахское) ак – белый символ чистоты и непорочности. Толкын с казахского языка – волна. Белая волна.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Актоты</Cyrillic>
+    <Latin>Aktoty`</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Слово тоты (казахское) – жар-птица  Имя имеет значение – красивая  </Description>
+    <Raw>Актоты (казахское) ак – белый символ чистоты и непорочности. Слово тоты (казахское) – жар-птица. Имя имеет значение – красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акша</Cyrillic>
+    <Latin>Aksha</Latin>
+    <National>казахск</National>
+    <Description>белоснежная, нежная, беленькая  </Description>
+    <Raw>Акша (казахское) белоснежная, нежная, беленькая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Акшара</Cyrillic>
+    <Latin>Akshara</Latin>
+    <National>казахск</National>
+    <Description>ак – белый символ чистоты и непорочности  Слово шара или чаре в переводе с персидского языка – мероприятие, выход из какого-либо положения, помощь  </Description>
+    <Raw>Акшара (казахское) ак – белый символ чистоты и непорочности. Слово шара или чаре в переводе с персидского языка – мероприятие, выход из какого-либо положения, помощь.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алима</Cyrillic>
+    <Latin>Alima</Latin>
+    <National>арабск</National>
+    <Description>слово алим означает – ученая, знающая, осведомленная  </Description>
+    <Raw>Алима (арабское) слово алим означает – ученая, знающая, осведомленная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алина</Cyrillic>
+    <Latin>Alina</Latin>
+    <National>арабск</National>
+    <Description>Алина имеет значения – верная, верная женщина, безопасная, благополучная  </Description>
+    <Raw>Алина (арабское) Алина имеет значения – верная, верная женщина, безопасная, благополучная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алипа</Cyrillic>
+    <Latin>Alipa</Latin>
+    <National>арабск</National>
+    <Description>алиф – название первой буквы арабского алфавита  Возможно в значении прямая, ровная  </Description>
+    <Raw>Алипа (арабское) алиф – название первой буквы арабского алфавита. Возможно в значении прямая, ровная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алия</Cyrillic>
+    <Latin>Aliya</Latin>
+    <National>арабск</National>
+    <Description>Алия – высокая, возвышенная  </Description>
+    <Raw>Алия (арабское) Алия – высокая, возвышенная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алкагуль</Cyrillic>
+    <Latin>Alkagul`</Latin>
+    <National>–</National>
+    <Description>Алка (казахское) означает: ожерелье, драгоценности   Гуль – цветок, красота, изящество  </Description>
+    <Raw>Алкагуль – Алка (казахское) означает: ожерелье, драгоценности.  Гуль – цветок, красота, изящество.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алмагуль</Cyrillic>
+    <Latin>Almagul`</Latin>
+    <National>казахск</National>
+    <Description>яблоневый цветок  Гуль – цветок, красота, изящество  Алма (казахское) яблоко  Яблоко имеет приятный запах, сладкий вкус, красивый вид  </Description>
+    <Raw>Алмагуль (казахское) яблоневый цветок. Гуль – цветок, красота, изящество. Алма (казахское) яблоко. Яблоко имеет приятный запах, сладкий вкус, красивый вид.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алмажан</Cyrillic>
+    <Latin>Almazhan</Latin>
+    <National>казахск</National>
+    <Description>яблоко  Жан (персидское) в казахском языке – дыхание, душа, жизнь   Используется в ласкательной форме как душенька, душечка  </Description>
+    <Raw>Алмажан (казахское) яблоко. Жан (персидское) в казахском языке – дыхание, душа, жизнь.  Используется в ласкательной форме как душенька, душечка.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алмазия</Cyrillic>
+    <Latin>Almaziya</Latin>
+    <National>арабск</National>
+    <Description>алмас означает твердеющий Драгоценный камень  </Description>
+    <Raw>Алмазия (арабское) алмас означает твердеющий.Драгоценный камень.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алтын</Cyrillic>
+    <Latin>Alty`n</Latin>
+    <National>казахск</National>
+    <Description>алтын означает золото  </Description>
+    <Raw>Алтын (казахское) алтын означает золото.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алтынай</Cyrillic>
+    <Latin>Alty`naj</Latin>
+    <National>казахск</National>
+    <Description>алтын означает золото, ай – луна  Имя имеет значения – золотая, драгоценная, любимая и красивая  </Description>
+    <Raw>Алтынай (казахское) алтын означает золото, ай – луна. Имя имеет значения – золотая, драгоценная, любимая и красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алтынбике</Cyrillic>
+    <Latin>Alty`nbike</Latin>
+    <National>казахск</National>
+    <Description>алтын означает «золото», бике — «дама», «красавица»  Титул красивых девушек и обращение к незнакомым молодым девушкам — «бикеш»  </Description>
+    <Raw>Алтынбике (казахское) алтын означает «золото», бике — «дама», «красавица». Титул красивых девушек и обращение к незнакомым молодым девушкам — «бикеш».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алтынкун</Cyrillic>
+    <Latin>Alty`nkun</Latin>
+    <National>казахск</National>
+    <Description>алтын означает «золото»  Золото символизирует чистоту  Кун с казахского языка переводится «солнце»  Алуа (арабское) алуа (халва) означает — «сладость» Фонетический алфавит – Калуа  </Description>
+    <Raw>Алтынкун (казахское) алтын означает «золото». Золото символизирует чистоту. Кун с казахского языка переводится «солнце». Алуа (арабское) алуа (халва) означает — «сладость».Фонетический алфавит – Калуа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Алуаш</Cyrillic>
+    <Latin>Aluash</Latin>
+    <National>арабск</National>
+    <Description>алуа (халва) означает «сладость» Фонетический вариант – Калуа  </Description>
+    <Raw>Алуаш (арабское) алуа (халва) означает «сладость».Фонетический вариант – Калуа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Альбина</Cyrillic>
+    <Latin>Al`bina</Latin>
+    <National>латинск</National>
+    <Description>имеет значение – белый  В переводе с древненемецкого языка означает – гном или благородный друг  Это имя широко распространено  Альфия (арабское) имеет значения  1  эпос тысячестрочный 2) тысячелетие 3) вечность  Амаль (арабское)  дела, действия  </Description>
+    <Raw>Альбина (латинское) имеет значение – белый. В переводе с древненемецкого языка означает – гном или благородный друг. Это имя широко распространено. Альфия (арабское) имеет значения  1. эпос тысячестрочный 2) тысячелетие 3) вечность. Амаль (арабское)  дела, действия.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аман</Cyrillic>
+    <Latin>Aman</Latin>
+    <National>арабск</National>
+    <Description>обозначает – безопасность, спокойствие, мир, здоровый, невредимый  В переводе с латинского языка это имя значит – любящий, ласковый  </Description>
+    <Raw>Аман (арабское) обозначает – безопасность, спокойствие, мир, здоровый, невредимый. В переводе с латинского языка это имя значит – любящий, ласковый.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аманай</Cyrillic>
+    <Latin>Amanaj</Latin>
+    <National>казахск</National>
+    <Description>аман – благополучный, здравый, невредимый; ай – луна  </Description>
+    <Raw>Аманай (казахское) аман – благополучный, здравый, невредимый; ай – луна.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аманат</Cyrillic>
+    <Latin>Amanat</Latin>
+    <National>арабск</National>
+    <Description>вещь, отдаваемая на хранение; честность, надежность, дар, наследие  </Description>
+    <Raw>Аманат (арабское) вещь, отдаваемая на хранение; честность, надежность, дар, наследие.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Амангуль</Cyrillic>
+    <Latin>Amangul`</Latin>
+    <National>казахск</National>
+    <Description>аман – благополучный, здравый, невредимый; гуль – цветок, красота, миловидность  </Description>
+    <Raw>Амангуль (казахское) аман – благополучный, здравый, невредимый; гуль – цветок, красота, миловидность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Амина</Cyrillic>
+    <Latin>Amina</Latin>
+    <National>арабск</National>
+    <Description>Амина имеет значения – честная, верная, находящаяся в безопасности  Это имя носила мать Пророка Мухаммада (с а в )  </Description>
+    <Raw>Амина (арабское) Амина имеет значения – честная, верная, находящаяся в безопасности. Это имя носила мать Пророка Мухаммада (с.а.в.).</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Анаргуль</Cyrillic>
+    <Latin>Anargul`</Latin>
+    <National>казахск</National>
+    <Description>анар означает – гранат, круглый зернистый темно-красный плод с многочисленными кисло-сладкими семенами  Красивое благозвучное имя  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Анаргуль (казахское) анар означает – гранат, круглый зернистый темно-красный плод с многочисленными кисло-сладкими семенами. Красивое благозвучное имя. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Анипа</Cyrillic>
+    <Latin>Anipa</Latin>
+    <National>арабск</National>
+    <Description>слово ханифа – истинная, настоящая  Хинифа тот, кто исповедовал единобожие еще до прихода пророка Мухаммада (благословение Аллаха и мир ему) Аниса (арабское) имеет значение «подруга»  «Дружба – богатство бесценное»  (Казахская пословица) </Description>
+    <Raw>Анипа (арабское) слово ханифа – истинная, настоящая. Хинифа тот, кто исповедовал единобожие еще до прихода пророка Мухаммада (благословение Аллаха и мир ему) Аниса (арабское) имеет значение «подруга». «Дружба – богатство бесценное». (Казахская пословица)</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Арипа</Cyrillic>
+    <Latin>Aripa</Latin>
+    <National>арабск</National>
+    <Description>знающая, мудрая  </Description>
+    <Raw>Арипа (арабское) знающая, мудрая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Арнагуль</Cyrillic>
+    <Latin>Arnagul`</Latin>
+    <National>арабск</National>
+    <Description> каньон, глубокая узкая долина с очень крутыми склонами, размытая текущей по её дну рекой, русло  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Арнагуль (арабское)  каньон, глубокая узкая долина с очень крутыми склонами, размытая текущей по её дну рекой, русло. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Арнур</Cyrillic>
+    <Latin>Arnur</Latin>
+    <National>арабск</National>
+    <Description>слово ар – человечность, совесть, честь, стыд  Слово нур – отражение, блеск, луч света  </Description>
+    <Raw>Арнур (арабское) слово ар – человечность, совесть, честь, стыд. Слово нур – отражение, блеск, луч света.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аршагуль</Cyrillic>
+    <Latin>Arshagul`</Latin>
+    <National>казахск</National>
+    <Description>арша – вереск, вечнозеленый кустарник с мелкими листьями и лилово-розовыми цветками  Вересковый цветок  Гуль – цветок, красота, изящество  Асель (арабское) означает – мед, сладенькая, приятная  </Description>
+    <Raw>Аршагуль (казахское) арша – вереск, вечнозеленый кустарник с мелкими листьями и лилово-розовыми цветками. Вересковый цветок. Гуль – цветок, красота, изящество. Асель (арабское) означает – мед, сладенькая, приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Асем</Cyrillic>
+    <Latin>Asem</Latin>
+    <National>казахск</National>
+    <Description>означает – прекрасная, изящная  </Description>
+    <Raw>Асем (казахское) означает – прекрасная, изящная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Асемай</Cyrillic>
+    <Latin>Asemaj</Latin>
+    <National>казахск</National>
+    <Description>асем означает – прекрасная, изящная  </Description>
+    <Raw>Асемай (казахское) асем означает – прекрасная, изящная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Ай</Cyrillic>
+    <Latin>Aj</Latin>
+    <National>–</National>
+    <Description>луна, что символизирует красоту, верность, вечность  </Description>
+    <Raw>Ай – луна, что символизирует красоту, верность, вечность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Асемгуль</Cyrillic>
+    <Latin>Asemgul`</Latin>
+    <National>казахск</National>
+    <Description>асем – прекрасная, изящная  Гуль – цветок, красота, изящество, миловидный  Асия (арабское) асия имеет значение – врачеватель, лечащая  </Description>
+    <Raw>Асемгуль (казахское) асем – прекрасная, изящная. Гуль – цветок, красота, изящество, миловидный. Асия (арабское) асия имеет значение – врачеватель, лечащая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Асылбике</Cyrillic>
+    <Latin>Asy`lbike</Latin>
+    <National>арабск</National>
+    <Description>асыл означает – благородный, драгоценный  (Тюркское) бике – дама, красавица  </Description>
+    <Raw>Асылбике (арабское) асыл означает – благородный, драгоценный. (Тюркское) бике – дама, красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Асылгуль</Cyrillic>
+    <Latin>Asy`lgul`</Latin>
+    <National>арабск</National>
+    <Description>асыл – благородный, драгоценный  Гуль – цветок, красота, изящество  </Description>
+    <Raw>Асылгуль (арабское) асыл – благородный, драгоценный. Гуль – цветок, красота, изящество.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Асылназ</Cyrillic>
+    <Latin>Asy`lnaz</Latin>
+    <National>арабск</National>
+    <Description>асыл – благородный, драгоценный  Наз (персидское) – кокетство, изящество, обаятельность  </Description>
+    <Raw>Асылназ (арабское) асыл – благородный, драгоценный. Наз (персидское) – кокетство, изящество, обаятельность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Аягоз</Cyrillic>
+    <Latin>Ayagoz</Latin>
+    <National>казахск</National>
+    <Description>чудесные глаза  Гоз от слова коз означает – глаза, око  </Description>
+    <Raw>Аягоз (казахское) чудесные глаза. Гоз от слова коз означает – глаза, око.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Багиля</Cyrillic>
+    <Latin>Bagilya</Latin>
+    <National>арабск</National>
+    <Description>бахи – вечная, постоянная, верная, вечно живущая  </Description>
+    <Raw>Багиля (арабское) бахи – вечная, постоянная, верная, вечно живущая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Бадига</Cyrillic>
+    <Latin>Badiga</Latin>
+    <National>арабск</National>
+    <Description>бади – восхитительная, изумительная, а также имеет значение – приятная  </Description>
+    <Raw>Бадига (арабское) бади – восхитительная, изумительная, а также имеет значение – приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Бике</Cyrillic>
+    <Latin>Bike</Latin>
+    <National>–</National>
+    <Description>дама, красавица  </Description>
+    <Raw>Бике – дама, красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балганым</Cyrillic>
+    <Latin>Balgany`m</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость, а также имеет значение – приятная  Ханум (арабское) – госпожа  </Description>
+    <Raw>Балганым (казахское) бал – мед, сладость, а также имеет значение – приятная. Ханум (арабское) – госпожа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балгуль</Cyrillic>
+    <Latin>Balgul`</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость, а  также имеет значение – приятная  Гуль – цветок, красота, изящество, миловидность  </Description>
+    <Raw>Балгуль (казахское) бал – мед, сладость, а  также имеет значение – приятная. Гуль – цветок, красота, изящество, миловидность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балгыз</Cyrillic>
+    <Latin>Balgy`z</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость, также имеет значение – приятная  Кыз – девочка, девушка  Балзия (казахское) бал – мед, сладость, а также имеет значение – приятная  </Description>
+    <Raw>Балгыз (казахское) бал – мед, сладость, также имеет значение – приятная. Кыз – девочка, девушка. Балзия (казахское) бал – мед, сладость, а также имеет значение – приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зия</Cyrillic>
+    <Latin>Ziya</Latin>
+    <National>арабск</National>
+    <Description>зейне – луч, сияние  </Description>
+    <Raw>Зия (арабское) зейне – луч, сияние.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балига</Cyrillic>
+    <Latin>Baliga</Latin>
+    <National>арабск</National>
+    <Description>взрослая, девушка, барышня  </Description>
+    <Raw>Балига (арабское) взрослая, девушка, барышня.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балия</Cyrillic>
+    <Latin>Baliya</Latin>
+    <National>арабск</National>
+    <Description>значение имени – близкая к Богу, святая  </Description>
+    <Raw>Балия (арабское) значение имени – близкая к Богу, святая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балкадиша</Cyrillic>
+    <Latin>Balkadisha</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость, а также имеет значение – приятная  </Description>
+    <Raw>Балкадиша (казахское) бал – мед, сладость, а также имеет значение – приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кадиша</Cyrillic>
+    <Latin>Kadisha</Latin>
+    <National>арабск</National>
+    <Description>недоношенный ребенок  </Description>
+    <Raw>Кадиша (арабское) недоношенный ребенок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балхия</Cyrillic>
+    <Latin>Balxiya</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость, также имеет значение – приятная  С арабского языка слово кия в отношении имени — очень привлекательная, красивая, милая  </Description>
+    <Raw>Балхия (казахское) бал – мед, сладость, также имеет значение – приятная. С арабского языка слово кия в отношении имени — очень привлекательная, красивая, милая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балшекер</Cyrillic>
+    <Latin>Balsheker</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость, а также имеет значение – приятная  </Description>
+    <Raw>Балшекер (казахское) бал – мед, сладость, а также имеет значение – приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шекер</Cyrillic>
+    <Latin>Sheker</Latin>
+    <National>–</National>
+    <Description>сахар, сладость  Самая сладенькая, красавица, хорошенькая  </Description>
+    <Raw>Шекер – сахар, сладость. Самая сладенькая, красавица, хорошенькая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балшуак</Cyrillic>
+    <Latin>Balshuak</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость  Слово шуак (арабское) – солнечный луч, полоса света  </Description>
+    <Raw>Балшуак (казахское) бал – мед, сладость. Слово шуак (арабское) – солнечный луч, полоса света.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Балым</Cyrillic>
+    <Latin>Baly`m</Latin>
+    <National>казахск</National>
+    <Description>бал – мед, сладость  Моя сладкая  Газиза (арабское) Газиза – почетная, уважаемая, любезная, милая, драгоценная  </Description>
+    <Raw>Балым (казахское) бал – мед, сладость. Моя сладкая. Газиза (арабское) Газиза – почетная, уважаемая, любезная, милая, драгоценная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гайни</Cyrillic>
+    <Latin>Gajni</Latin>
+    <National>арабск</National>
+    <Description>слово гайни имеет два значения 1  глаз, зрение  2  важный, самый необходимый  Это имя дается и девочкам  Галима (арабское) галым означает – знающая, сведущая, ученая, большой знаток  </Description>
+    <Raw>Гайни (арабское) слово гайни имеет два значения 1. глаз, зрение. 2. важный, самый необходимый. Это имя дается и девочкам. Галима (арабское) галым означает – знающая, сведущая, ученая, большой знаток.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Галия</Cyrillic>
+    <Latin>Galiya</Latin>
+    <National>арабск</National>
+    <Description> почтенная, уважаемая, любимая  </Description>
+    <Raw>Галия (арабское)  почтенная, уважаемая, любимая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гаухар</Cyrillic>
+    <Latin>Gauxar</Latin>
+    <National>казахск</National>
+    <Description>гаухар означает – драгоценный камень, жемчуг, бриллиант  Имя указывает на качество, чистоту, красоту, ценность  Гаяна (греческое) земная, из земли  </Description>
+    <Raw>Гаухар (казахское) гаухар означает – драгоценный камень, жемчуг, бриллиант. Имя указывает на качество, чистоту, красоту, ценность. Гаяна (греческое) земная, из земли.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульажар</Cyrillic>
+    <Latin>Gul`azhar</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, изящество, красота, миловидность  С казахского языка слово ажар переводится облик, вид или красивая, приятная, заметная, обаятельная  Гульай (казахское) гуль – цветок, изящество, красота, миловидность  (казахское) ай – луна  Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах  </Description>
+    <Raw>Гульажар (казахское) гуль – цветок, изящество, красота, миловидность. С казахского языка слово ажар переводится облик, вид или красивая, приятная, заметная, обаятельная. Гульай (казахское) гуль – цветок, изящество, красота, миловидность. (казахское) ай – луна. Луна символизирует красоту, мягкий свет, который не обжигает, как солнце в южных странах.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульайна</Cyrillic>
+    <Latin>Gul`ajna</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидность (казахское) айна – зеркало  Зеркало – символ чистоты  </Description>
+    <Raw>Гульайна (казахское) гуль – цветок, красота, изящество, миловидность.(казахское) айна – зеркало. Зеркало – символ чистоты.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульайша</Cyrillic>
+    <Latin>Gul`ajsha</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, изящество, красота, миловидность  В переводе с древнееврейского айша означает – живущая, жизнелюбивая  </Description>
+    <Raw>Гульайша (казахское) гуль – цветок, изящество, красота, миловидность. В переводе с древнееврейского айша означает – живущая, жизнелюбивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульанда</Cyrillic>
+    <Latin>Gul`anda</Latin>
+    <National>персидск</National>
+    <Description>имя означает изящная, грациозная, стан подобен цветку  </Description>
+    <Raw>Гульанда (персидское) имя означает изящная, грациозная, стан подобен цветку.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульара</Cyrillic>
+    <Latin>Gul`ara</Latin>
+    <National>персидск</National>
+    <Description>имя означает – украшенная цветами  </Description>
+    <Raw>Гульара (персидское) имя означает – украшенная цветами.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульбану</Cyrillic>
+    <Latin>Gul`banu</Latin>
+    <National>казахск</National>
+    <Description> гуль – цветок, изящество, красота, миловидность  (персидское) бану означает – девушка  Очаровательная девушка, как цветок  </Description>
+    <Raw>Гульбану (казахское)  гуль – цветок, изящество, красота, миловидность. (персидское) бану означает – девушка. Очаровательная девушка, как цветок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульбаршын</Cyrillic>
+    <Latin>Gul`barshy`n</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, изящество, красота, миловидность Баршын (казахское) означает полосатый шелк  Красивая как шелк  </Description>
+    <Raw>Гульбаршын (казахское) гуль – цветок, изящество, красота, миловидность.Баршын (казахское) означает полосатый шелк. Красивая как шелк.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульболсын</Cyrillic>
+    <Latin>Gul`bolsy`n</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  Болсын (казахское) означает – пусть будет! Буквальное значение имени — «Пусть цветку будет подобна!» </Description>
+    <Raw>Гульболсын (казахское) гуль – цветок, красота, изящество. Болсын (казахское) означает – пусть будет! Буквальное значение имени — «Пусть цветку будет подобна!»</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульдана</Cyrillic>
+    <Latin>Gul`dana</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  Дана – знающая, целомудренная, мудрая (в переводе с казахского)  </Description>
+    <Raw>Гульдана (казахское) гуль – цветок, красота, изящество, миловидный. Дана – знающая, целомудренная, мудрая (в переводе с казахского).</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульдара</Cyrillic>
+    <Latin>Gul`dara</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  Дара – единственная, особенная, красивая  Гульдарига (казахское) гуль – цветок, красота, изящество, миловидный  В переводе с персидского языка слово дарига означает – жалость, сожаление  </Description>
+    <Raw>Гульдара (казахское) гуль – цветок, красота, изящество, миловидный. Дара – единственная, особенная, красивая. Гульдарига (казахское) гуль – цветок, красота, изящество, миловидный. В переводе с персидского языка слово дарига означает – жалость, сожаление.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульдария</Cyrillic>
+    <Latin>Gul`dariya</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  (казахское) дария — море, большая река  Дария – великодушная, благодушная  </Description>
+    <Raw>Гульдария (казахское) гуль – цветок, красота, изящество, миловидный. (казахское) дария — море, большая река. Дария – великодушная, благодушная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульжазира</Cyrillic>
+    <Latin>Gul`zhazira</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  (арабское) жазира означает – широкий простор, широкая степь, т е  желают, чтобы девочка была общительная или гостеприиная  </Description>
+    <Raw>Гульжазира (казахское) гуль – цветок, красота, изящество, миловидный. (арабское) жазира означает – широкий простор, широкая степь, т.е. желают, чтобы девочка была общительная или гостеприиная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульмаржан</Cyrillic>
+    <Latin>Gul`marzhan</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, (казахское) маржан означает — «жемчуг»  </Description>
+    <Raw>Гульмаржан (казахское) гуль – цветок, красота, изящество, (казахское) маржан означает — «жемчуг».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульмерей</Cyrillic>
+    <Latin>Gul`merej</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  Мерей с казахского языка означает – престиж, счастье, успех  </Description>
+    <Raw>Гульмерей (казахское) гуль – цветок, красота, изящество. Мерей с казахского языка означает – престиж, счастье, успех.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульмира</Cyrillic>
+    <Latin>Gul`mira</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  Мира – происходит от русского слова мир, означающего согласие, отсутствие войны, ссоры, вражды  </Description>
+    <Raw>Гульмира (казахское) гуль – цветок, красота, изящество, миловидный. Мира – происходит от русского слова мир, означающего согласие, отсутствие войны, ссоры, вражды.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульназ</Cyrillic>
+    <Latin>Gul`naz</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный,(персидское) наз означает – кокетство, изящество, обаятельность  </Description>
+    <Raw>Гульназ (казахское) гуль – цветок, красота, изящество, миловидный,(персидское) наз означает – кокетство, изящество, обаятельность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульназым</Cyrillic>
+    <Latin>Gul`nazy`m</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный, назым (казахское) буквально означает — «поэзия»  В переносном смысле имя имеет значение – моя ласковая, изящная, обаятельная  </Description>
+    <Raw>Гульназым (казахское) гуль – цветок, красота, изящество, миловидный, назым (казахское) буквально означает — «поэзия». В переносном смысле имя имеет значение – моя ласковая, изящная, обаятельная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульнар</Cyrillic>
+    <Latin>Gul`nar</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  В  переводе с персидского языка нар означает – сила, энергия  </Description>
+    <Raw>Гульнар (казахское) гуль – цветок, красота, изящество. В  переводе с персидского языка нар означает – сила, энергия.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульнур</Cyrillic>
+    <Latin>Gul`nur</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  Нур с казахского языка – луч, свет  Лучезарный цветок  </Description>
+    <Raw>Гульнур (казахское) гуль – цветок, красота, изящество. Нур с казахского языка – луч, свет. Лучезарный цветок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульсана</Cyrillic>
+    <Latin>Gul`sana</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  В переводе с арабского сана – чистота, прозрачность  </Description>
+    <Raw>Гульсана (казахское) гуль – цветок, красота, изящество. В переводе с арабского сана – чистота, прозрачность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульсанат</Cyrillic>
+    <Latin>Gul`sanat</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный,(арабское) слово санад – опора, поддержка, удача, счастье  </Description>
+    <Raw>Гульсанат (казахское) гуль – цветок, красота, изящество, миловидный,(арабское) слово санад – опора, поддержка, удача, счастье.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульсания</Cyrillic>
+    <Latin>Gul`saniya</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  В переводе с арабского и таджикского языков имя сания означает – второй ребенок  </Description>
+    <Raw>Гульсания (казахское) гуль – цветок, красота, изящество. В переводе с арабского и таджикского языков имя сания означает – второй ребенок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульсара</Cyrillic>
+    <Latin>Gul`sara</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  В переводе с древнееврейского языка имя Сара означает 1  избранная, драгоценная 2  клятва, присяга  </Description>
+    <Raw>Гульсара (казахское) гуль – цветок, красота, изящество. В переводе с древнееврейского языка имя Сара означает 1. избранная, драгоценная 2. клятва, присяга.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульжайна</Cyrillic>
+    <Latin>Gul`zhajna</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  Жайна (казахское) означает – красота, прелесть, миловидность  </Description>
+    <Raw>Гульжайна (казахское) гуль – цветок, красота, изящество. Жайна (казахское) означает – красота, прелесть, миловидность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульжамиля</Cyrillic>
+    <Latin>Gul`zhamilya</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  С арабского языка жамиля – любезная, милая  </Description>
+    <Raw>Гульжамиля (казахское) гуль – цветок, красота, изящество. С арабского языка жамиля – любезная, милая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульжан</Cyrillic>
+    <Latin>Gul`zhan</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  Компонент жан в персидском и казахском языках – дыхание, душа, жизнь  В казахском языке это слово используется в ласкательной форме  </Description>
+    <Raw>Гульжан (казахское) гуль – цветок, красота, изящество, миловидный. Компонент жан в персидском и казахском языках – дыхание, душа, жизнь. В казахском языке это слово используется в ласкательной форме.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульжанар</Cyrillic>
+    <Latin>Gul`zhanar</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  Жанар (казахское) имеет значения 1  блеск глаз 2  луч солнца  </Description>
+    <Raw>Гульжанар (казахское) гуль – цветок, красота, изящество. Жанар (казахское) имеет значения 1. блеск глаз 2. луч солнца.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульсум</Cyrillic>
+    <Latin>Gul`sum</Latin>
+    <National>арабск</National>
+    <Description>означает – полнощекая  </Description>
+    <Raw>Гульсум (арабское) означает – полнощекая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульханум</Cyrillic>
+    <Latin>Gul`xanum</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, (арабское) ханум – принцесса, госпожа  </Description>
+    <Raw>Гульханум (казахское) гуль – цветок, красота, изящество, (арабское) ханум – принцесса, госпожа.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульшара</Cyrillic>
+    <Latin>Gul`shara</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  В переводе с персидского языка слово чаре означает – мероприятие, выход из какого-либо положения  </Description>
+    <Raw>Гульшара (казахское) гуль – цветок, красота, изящество. В переводе с персидского языка слово чаре означает – мероприятие, выход из какого-либо положения.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Гульшарын</Cyrillic>
+    <Latin>Gul`shary`n</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество  В переводе с иранского и казахского языков шырын означает «сладкий сок фруктов»  </Description>
+    <Raw>Гульшарын (казахское) гуль – цветок, красота, изящество. В переводе с иранского и казахского языков шырын означает «сладкий сок фруктов».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Дайана</Cyrillic>
+    <Latin>Dajana</Latin>
+    <National>казахск</National>
+    <Description>с латинского языка Диана – имя богини луны  Это имя запрещено для мусульман  </Description>
+    <Raw>Дайана (казахское) с латинского языка Диана – имя богини луны. Это имя запрещено для мусульман.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Диля</Cyrillic>
+    <Latin>Dilya</Latin>
+    <National>грузинск</National>
+    <Description>имя Диля (Дила) означает – утро, заря  </Description>
+    <Raw>Диля (грузинское) имя Диля (Дила) означает – утро, заря.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Диляра</Cyrillic>
+    <Latin>Dilyara</Latin>
+    <National>арабск</National>
+    <Description>означает – возлюбленная, красавица  </Description>
+    <Raw>Диляра (арабское) означает – возлюбленная, красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Дина</Cyrillic>
+    <Latin>Dina</Latin>
+    <National>казахск</National>
+    <Description>1  В переводе с древнееврейского языка – суд; 2  (арабское) – религия, вера, золотая монета  </Description>
+    <Raw>Дина (казахское) 1. В переводе с древнееврейского языка – суд; 2. (арабское) – религия, вера, золотая монета.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Динара</Cyrillic>
+    <Latin>Dinara</Latin>
+    <National>арабск</National>
+    <Description>Динара означает – золотая монета  </Description>
+    <Raw>Динара (арабское) Динара означает – золотая монета.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Еркегуль</Cyrillic>
+    <Latin>Erkegul`</Latin>
+    <National>казахск</National>
+    <Description>ерке означает – нежная, ласковая  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Еркегуль (казахское) ерке означает – нежная, ласковая. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жадыра</Cyrillic>
+    <Latin>Zhady`ra</Latin>
+    <National>казахск</National>
+    <Description>это имя означает «сияющая»  </Description>
+    <Raw>Жадыра (казахское) это имя означает «сияющая».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жазира</Cyrillic>
+    <Latin>Zhazira</Latin>
+    <National>арабск</National>
+    <Description>Жазира означает – широкий простор, широкая степь, в переносном смысле – желают дочке быть общительной  </Description>
+    <Raw>Жазира (арабское) Жазира означает – широкий простор, широкая степь, в переносном смысле – желают дочке быть общительной.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жайна</Cyrillic>
+    <Latin>Zhajna</Latin>
+    <National>казахск</National>
+    <Description>жайна означает – блестеть, быть украшением, сияющей  </Description>
+    <Raw>Жайна (казахское) жайна означает – блестеть, быть украшением, сияющей.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жамели</Cyrillic>
+    <Latin>Zhameli</Latin>
+    <National>арабск</National>
+    <Description>жамали означает – красота, красивая, прекрасная  </Description>
+    <Raw>Жамели (арабское) жамали означает – красота, красивая, прекрасная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жамига</Cyrillic>
+    <Latin>Zhamiga</Latin>
+    <National>арабск</National>
+    <Description>всех собирающая, всех суживающая  </Description>
+    <Raw>Жамига (арабское) всех собирающая, всех суживающая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жанагуль</Cyrillic>
+    <Latin>Zhanagul`</Latin>
+    <National>казахск</National>
+    <Description>жана означает – новый, свежий  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Жанагуль (казахское) жана означает – новый, свежий. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жанипа</Cyrillic>
+    <Latin>Zhanipa</Latin>
+    <National>арабск</National>
+    <Description>означает – вежливая, учтивая, скромная  </Description>
+    <Raw>Жанипа (арабское) означает – вежливая, учтивая, скромная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жания</Cyrillic>
+    <Latin>Zhaniya</Latin>
+    <National>персидск</National>
+    <Description>это имя имеет значение – милая, добродушная  </Description>
+    <Raw>Жания (персидское) это имя имеет значение – милая, добродушная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жанна</Cyrillic>
+    <Latin>Zhanna</Latin>
+    <National>еврейск</National>
+    <Description>имя Жанна означает — «голубь»  В переводе с персидского языка слово жана – любимая  Жаннат (арабское) слово жаннат означает – блаженство, рай  </Description>
+    <Raw>Жанна (еврейское) имя Жанна означает — «голубь». В переводе с персидского языка слово жана – любимая. Жаннат (арабское) слово жаннат означает – блаженство, рай.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Женискуль</Cyrillic>
+    <Latin>Zheniskul`</Latin>
+    <National>казахск</National>
+    <Description>женис означает – победа, завоевание  Смысл этого имени — достигать успеха, бороться за какое-то определенное целенаправленное дело, за хорошие результаты  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Женискуль (казахское) женис означает – победа, завоевание. Смысл этого имени — достигать успеха, бороться за какое-то определенное целенаправленное дело, за хорошие результаты. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Жулдыз</Cyrillic>
+    <Latin>Zhuldy`z</Latin>
+    <National>казахск</National>
+    <Description>жулдыз означает – звезда, лучезарная, светлая  </Description>
+    <Raw>Жулдыз (казахское) жулдыз означает – звезда, лучезарная, светлая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Загила</Cyrillic>
+    <Latin>Zagila</Latin>
+    <National>арабск</National>
+    <Description>имеет значения: 1  драгоценная, дорогая 2  облик, образ, фигура  Зайтуна (арабское) зайтун означает – оливковое дерево, маслина  Вечнозеленое дерево  Венок из ветвей этого дерева – символ победы  Закия (арабское) имеет значения 1  зоркая, дальновидная, умная, способная 2  чистая, праведная, благочестивая  </Description>
+    <Raw>Загила (арабское) имеет значения: 1. драгоценная, дорогая 2. облик, образ, фигура. Зайтуна (арабское) зайтун означает – оливковое дерево, маслина. Вечнозеленое дерево. Венок из ветвей этого дерева – символ победы. Закия (арабское) имеет значения 1. зоркая, дальновидная, умная, способная 2. чистая, праведная, благочестивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Залиха</Cyrillic>
+    <Latin>Zalixa</Latin>
+    <National>арабск</National>
+    <Description>означает – красноречивая, острая на язык  </Description>
+    <Raw>Залиха (арабское) означает – красноречивая, острая на язык.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Замира</Cyrillic>
+    <Latin>Zamira</Latin>
+    <National>арабск</National>
+    <Description>слово зами имеет значения: 1  играющая на свирели 1  затаенная мечта, сокровенная мысль  Зара (арабское) слово зара означает – золото, чистота  </Description>
+    <Raw>Замира (арабское) слово зами имеет значения: 1. играющая на свирели 1. затаенная мечта, сокровенная мысль. Зара (арабское) слово зара означает – золото, чистота.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зарина</Cyrillic>
+    <Latin>Zarina</Latin>
+    <National>персидск</National>
+    <Description>имеет значения: 1  золото, золотое украшение 2  золотоцветная  Зарифа (арабское) Зарифа означает – красивая, остроумная  </Description>
+    <Raw>Зарина (персидское) имеет значения: 1. золото, золотое украшение 2. золотоцветная. Зарифа (арабское) Зарифа означает – красивая, остроумная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зиба</Cyrillic>
+    <Latin>Ziba</Latin>
+    <National>персидск</National>
+    <Description>имя Зиба означает – привлекательная, красивая, нарядная  </Description>
+    <Raw>Зиба (персидское) имя Зиба означает – привлекательная, красивая, нарядная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зира</Cyrillic>
+    <Latin>Zira</Latin>
+    <National>арабск</National>
+    <Description>слово зиарат означает – посвящение, визит, паломничество  </Description>
+    <Raw>Зира (арабское) слово зиарат означает – посвящение, визит, паломничество.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зия</Cyrillic>
+    <Latin>Ziya</Latin>
+    <National>персидск</National>
+    <Description>зия имеет значение – свет, блеск, сияние  </Description>
+    <Raw>Зия (персидское) зия имеет значение – свет, блеск, сияние.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зубайда</Cyrillic>
+    <Latin>Zubajda</Latin>
+    <National>арабск</National>
+    <Description>означает избранная, самая хорошая, отборная  </Description>
+    <Raw>Зубайда (арабское) означает избранная, самая хорошая, отборная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зубайра</Cyrillic>
+    <Latin>Zubajra</Latin>
+    <National>арабск</National>
+    <Description>означает – сильная, мудрая  </Description>
+    <Raw>Зубайра (арабское) означает – сильная, мудрая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зульфия</Cyrillic>
+    <Latin>Zul`fiya</Latin>
+    <National>арабск</National>
+    <Description>Зульфия означает – кудрявая, кудрявые волосы прекрасной девушки  </Description>
+    <Raw>Зульфия (арабское) Зульфия означает – кудрявая, кудрявые волосы прекрасной девушки.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зумрад</Cyrillic>
+    <Latin>Zumrad</Latin>
+    <National>персидск</National>
+    <Description>слово зумрат означает – изумруд, драгоценный камень  </Description>
+    <Raw>Зумрад (персидское) слово зумрат означает – изумруд, драгоценный камень.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зумрат</Cyrillic>
+    <Latin>Zumrat</Latin>
+    <National>персидск</National>
+    <Description>Зумрад означает – изумруд  Прозрачный драгоценный камень густо-зеленого цвета  </Description>
+    <Raw>Зумрат (персидское) Зумрад означает – изумруд. Прозрачный драгоценный камень густо-зеленого цвета.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Зура</Cyrillic>
+    <Latin>Zura</Latin>
+    <National>арабск</National>
+    <Description>фонетически измененная форма имени Зауре  Означает: 1  блестящая, сверкающая 2  Венера, утренняя звезда  </Description>
+    <Raw>Зура (арабское) фонетически измененная форма имени Зауре. Означает: 1. блестящая, сверкающая 2. Венера, утренняя звезда.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Ибалы</Cyrillic>
+    <Latin>Ibaly`</Latin>
+    <National>казахск</National>
+    <Description>иба имеет значения – вежливость, скромность, уважение  Имя означает – человек, имеющий эти качества  Скромная, вежливая  Ирада (арабское) означает – воля, намерение  </Description>
+    <Raw>Ибалы (казахское) иба имеет значения – вежливость, скромность, уважение. Имя означает – человек, имеющий эти качества. Скромная, вежливая. Ирада (арабское) означает – воля, намерение.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Ирина</Cyrillic>
+    <Latin>Irina</Latin>
+    <National>греческ</National>
+    <Description>Мир  </Description>
+    <Raw>Ирина (греческое) Мир.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кабира</Cyrillic>
+    <Latin>Kabira</Latin>
+    <National>арабск</National>
+    <Description> великая, серьезная, умная  </Description>
+    <Raw>Кабира (арабское)  великая, серьезная, умная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Калима</Cyrillic>
+    <Latin>Kalima</Latin>
+    <National>арабск</National>
+    <Description>Исламские свидетельсва вероисповедания  </Description>
+    <Raw>Калима (арабское) Исламские свидетельсва вероисповедания.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Камила</Cyrillic>
+    <Latin>Kamila</Latin>
+    <National>арабск</National>
+    <Description>означает совершенная  </Description>
+    <Raw>Камила (арабское) означает совершенная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Капиза</Cyrillic>
+    <Latin>Kapiza</Latin>
+    <National>арабск</National>
+    <Description>слово хафиз – ученая, знающая наизусть Коран  </Description>
+    <Raw>Капиза (арабское) слово хафиз – ученая, знающая наизусть Коран.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Карагоз</Cyrillic>
+    <Latin>Karagoz</Latin>
+    <National>казахск</National>
+    <Description>кара означает – чёрный, коз – глаза  Черноглазая  </Description>
+    <Raw>Карагоз (казахское) кара означает – чёрный, коз – глаза. Черноглазая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Карима</Cyrillic>
+    <Latin>Karima</Latin>
+    <National>арабск</National>
+    <Description>карим означает благодарная, великодушная  Благозвучное, красивое имя  Карина (казахское) это имя происходит от названия Карского моря  </Description>
+    <Raw>Карима (арабское) карим означает благодарная, великодушная. Благозвучное, красивое имя. Карина (казахское) это имя происходит от названия Карского моря.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кенже</Cyrillic>
+    <Latin>Kenzhe</Latin>
+    <National>казахск</National>
+    <Description>в казахском народе самая младшая называется этим именем  </Description>
+    <Raw>Кенже (казахское) в казахском народе самая младшая называется этим именем.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Клара</Cyrillic>
+    <Latin>Klara</Latin>
+    <National>латинск</National>
+    <Description>ясная, светлая  Благозвучное красивое имя, часто встречается в казахском народе  </Description>
+    <Raw>Клара (латинское) ясная, светлая. Благозвучное красивое имя, часто встречается в казахском народе.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кулайша</Cyrillic>
+    <Latin>Kulajsha</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  В переводе с древнееврейского языка Айша означает – живущая, жизнелюбивая  </Description>
+    <Raw>Кулайша (казахское) гуль – цветок, красота, изящество, миловидный. В переводе с древнееврейского языка Айша означает – живущая, жизнелюбивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кулайым</Cyrillic>
+    <Latin>Kulajy`m</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  (казахское) ай – луна  </Description>
+    <Raw>Кулайым (казахское) гуль – цветок, красота, изящество, миловидный. (казахское) ай – луна.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кулсин</Cyrillic>
+    <Latin>Kulsin</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидность  Имя означает — как цветок, красивая  </Description>
+    <Raw>Кулсин (казахское) гуль – цветок, красота, изящество, миловидность. Имя означает — как цветок, красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кулян</Cyrillic>
+    <Latin>Kulyan</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Кулян (казахское) гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Куляш</Cyrillic>
+    <Latin>Kulyash</Latin>
+    <National>казахск</National>
+    <Description>гуль – цветок, красота, изящество, миловидность  </Description>
+    <Raw>Куляш (казахское) гуль – цветок, красота, изящество, миловидность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кундуз</Cyrillic>
+    <Latin>Kunduz</Latin>
+    <National>казахск</National>
+    <Description>кундуз переводится – бобер, нутрия, норка, блестящий и  красивый, ценный мех  </Description>
+    <Raw>Кундуз (казахское) кундуз переводится – бобер, нутрия, норка, блестящий и  красивый, ценный мех.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кунсана</Cyrillic>
+    <Latin>Kunsana</Latin>
+    <National>казахск</National>
+    <Description>кун – означает солнце  В переводе с арабского сана (софа) – чистота, прозрачность  </Description>
+    <Raw>Кунсана (казахское) кун – означает солнце. В переводе с арабского сана (софа) – чистота, прозрачность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Кунсая</Cyrillic>
+    <Latin>Kunsaya</Latin>
+    <National>казахск</National>
+    <Description>означает солнце  Сая – тень, то есть защита, покровительство  Кымбат (казахское) это имя означает – дорогая, очень ценная  </Description>
+    <Raw>Кунсая (казахское) означает солнце. Сая – тень, то есть защита, покровительство. Кымбат (казахское) это имя означает – дорогая, очень ценная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Лабиба</Cyrillic>
+    <Latin>Labiba</Latin>
+    <National>арабск</National>
+    <Description>имя означает – умная проницательная  </Description>
+    <Raw>Лабиба (арабское) имя означает – умная проницательная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Лазым</Cyrillic>
+    <Latin>Lazy`m</Latin>
+    <National>арабск</National>
+    <Description>Это имя арабского происхождения  В переводе с персидского языка означает – необходимая, нужная  </Description>
+    <Raw>Лазым (арабское) Это имя арабского происхождения. В переводе с персидского языка означает – необходимая, нужная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Лаик</Cyrillic>
+    <Latin>Laik</Latin>
+    <National>казахск</National>
+    <Description>имя Лаик означает – достойная, соответствующая, подходящая  </Description>
+    <Raw>Лаик (казахское) имя Лаик означает – достойная, соответствующая, подходящая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Лала</Cyrillic>
+    <Latin>Lala</Latin>
+    <National>–</National>
+    <Description>это имя имеет несколько значений  1  С азербайджанского языка слово лалэ означает – мак  2) в переводе с индийского языка слово лал означает – жемчуг  3) лилия  Ламзия (арабское) лам – буква в арабском алфавите, слово зияя – сияние света  </Description>
+    <Raw>Лала – это имя имеет несколько значений. 1. С азербайджанского языка слово лалэ означает – мак. 2) в переводе с индийского языка слово лал означает – жемчуг. 3) лилия. Ламзия (арабское) лам – буква в арабском алфавите, слово зияя – сияние света.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Латифа</Cyrillic>
+    <Latin>Latifa</Latin>
+    <National>арабск</National>
+    <Description>слово латифа означает – добрая, любимая, любезная, приветливая, приятная  </Description>
+    <Raw>Латифа (арабское) слово латифа означает – добрая, любимая, любезная, приветливая, приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Магира</Cyrillic>
+    <Latin>Magira</Latin>
+    <National>арабск</National>
+    <Description>Махира означает – мастер, умелый, знаток  От этого имени происходят другие похожие имена  Например, Майра  Магрипа (арабское) слово магрифет означает – знание, познание, искусство, грамотность и обладатель этих качеств  </Description>
+    <Raw>Магира (арабское) Махира означает – мастер, умелый, знаток. От этого имени происходят другие похожие имена. Например, Майра. Магрипа (арабское) слово магрифет означает – знание, познание, искусство, грамотность и обладатель этих качеств.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Мадина</Cyrillic>
+    <Latin>Madina</Latin>
+    <National>арабск</National>
+    <Description>означает «город»  Город Медина, находится недалеко от Мекки  </Description>
+    <Raw>Мадина (арабское) означает «город». Город Медина, находится недалеко от Мекки.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Макпал</Cyrillic>
+    <Latin>Makpal</Latin>
+    <National>персидск</National>
+    <Description>слово бахмал – ткань бархат, плюш  Это имя означает – мягкая, нежная, приятная  </Description>
+    <Raw>Макпал (персидское) слово бахмал – ткань бархат, плюш. Это имя означает – мягкая, нежная, приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Манзура</Cyrillic>
+    <Latin>Manzura</Latin>
+    <National>арабск</National>
+    <Description>Манзура означает; обещание, обет  Также похожие имена как Манура, имеют такой же смысл  </Description>
+    <Raw>Манзура (арабское) Манзура означает; обещание, обет. Также похожие имена как Манура, имеют такой же смысл.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Марал</Cyrillic>
+    <Latin>Maral</Latin>
+    <National>казахск</National>
+    <Description>имя Марал переводится «олень»  Имя связано с диким животным-оленем  В восточном народе олень считается священным животным  Казахский народ красоту женщин сравнивает с красотой оленя  </Description>
+    <Raw>Марал (казахское) имя Марал переводится «олень». Имя связано с диким животным-оленем. В восточном народе олень считается священным животным. Казахский народ красоту женщин сравнивает с красотой оленя.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Маржан</Cyrillic>
+    <Latin>Marzhan</Latin>
+    <National>казахск</National>
+    <Description>имя Маржан означает: драгоценность, кораллы, жемчуг, ожерелье  </Description>
+    <Raw>Маржан (казахское) имя Маржан означает: драгоценность, кораллы, жемчуг, ожерелье.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Марзия</Cyrillic>
+    <Latin>Marziya</Latin>
+    <National>арабск</National>
+    <Description>Марзия или Мардина; 1  одобренная, общепризнанная; 2  Любимая, приятная  </Description>
+    <Raw>Марзия (арабское) Марзия или Мардина; 1. одобренная, общепризнанная; 2. Любимая, приятная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Мария</Cyrillic>
+    <Latin>Mariya</Latin>
+    <National>древнееврейск</National>
+    <Description>имя Мария означает: 1  превосходная, прекрасная; 2  высокопоставленная госпожа  Фонетические варианты: Мариям, Марияш, Майра  Марфуга (арабское) слово марфуа означает; высокопоставленная, стоящая выше других по чину  </Description>
+    <Raw>Мария (древнееврейское) имя Мария означает: 1. превосходная, прекрасная; 2. высокопоставленная госпожа. Фонетические варианты: Мариям, Марияш, Майра. Марфуга (арабское) слово марфуа означает; высокопоставленная, стоящая выше других по чину.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Мархаббат</Cyrillic>
+    <Latin>Marxabbat</Latin>
+    <National>казахск</National>
+    <Description>имя Мархаббат означает «милость»  </Description>
+    <Raw>Мархаббат (казахское) имя Мархаббат означает «милость».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Мастура</Cyrillic>
+    <Latin>Mastura</Latin>
+    <National>арабск</National>
+    <Description>имя Мастура имеет такие значения; 1  предотвращающая плохое, честная, желающая доброты; 2  искренняя, скромная, почтенная  Мукаррама (арабское) имя – уважаемая, почтенная, почитаемая  </Description>
+    <Raw>Мастура (арабское) имя Мастура имеет такие значения; 1. предотвращающая плохое, честная, желающая доброты; 2. искренняя, скромная, почтенная. Мукаррама (арабское) имя – уважаемая, почтенная, почитаемая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Мунира</Cyrillic>
+    <Latin>Munira</Latin>
+    <National>арабск</National>
+    <Description>лучистая, яркая, ясная  </Description>
+    <Raw>Мунира (арабское) лучистая, яркая, ясная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Набат</Cyrillic>
+    <Latin>Nabat</Latin>
+    <National>персидск</National>
+    <Description>это слово означает: 1  растение, росток  2  сладкая, буквально – кристаллический сахар  Набира (арабское) внук, внучка  </Description>
+    <Raw>Набат (персидское) это слово означает: 1. растение, росток. 2. сладкая, буквально – кристаллический сахар. Набира (арабское) внук, внучка.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Набия</Cyrillic>
+    <Latin>Nabiya</Latin>
+    <National>арабск</National>
+    <Description>означает – умная, мудрая, образованная женщина  </Description>
+    <Raw>Набия (арабское) означает – умная, мудрая, образованная женщина.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нагиза</Cyrillic>
+    <Latin>Nagiza</Latin>
+    <National>персидск</National>
+    <Description>значение имени – красивая, прекрасная  </Description>
+    <Raw>Нагиза (персидское) значение имени – красивая, прекрасная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нагима</Cyrillic>
+    <Latin>Nagima</Latin>
+    <National>арабск</National>
+    <Description>Нагима имеет значение: 1  любезная, вежливая, яркая  2  изящная, нежная, мягкая  </Description>
+    <Raw>Нагима (арабское) Нагима имеет значение: 1. любезная, вежливая, яркая. 2. изящная, нежная, мягкая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нагиша</Cyrillic>
+    <Latin>Nagisha</Latin>
+    <National>казахск</National>
+    <Description>термин нагашы означает – родственник по материнской линии  Это имя дают дочке тогда, когда она очень похожа на свою мать или на кого-то из её родственников  </Description>
+    <Raw>Нагиша (казахское) термин нагашы означает – родственник по материнской линии. Это имя дают дочке тогда, когда она очень похожа на свою мать или на кого-то из её родственников.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Назира</Cyrillic>
+    <Latin>Nazira</Latin>
+    <National>арабск</National>
+    <Description>Назира означает – подобная, похожая  </Description>
+    <Raw>Назира (арабское) Назира означает – подобная, похожая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Назия</Cyrillic>
+    <Latin>Naziya</Latin>
+    <National>персидск</National>
+    <Description>назия означает – ласковая, изящная, обаятельная  </Description>
+    <Raw>Назия (персидское) назия означает – ласковая, изящная, обаятельная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Найра</Cyrillic>
+    <Latin>Najra</Latin>
+    <National>арабск</National>
+    <Description>означает – красивая, изящная  </Description>
+    <Raw>Найра (арабское) означает – красивая, изящная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нарима</Cyrillic>
+    <Latin>Narima</Latin>
+    <National>арабск</National>
+    <Description>от слова найри, что означает – смелая, сильная духом, мужественная, энергичная  </Description>
+    <Raw>Нарима (арабское) от слова найри, что означает – смелая, сильная духом, мужественная, энергичная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Насима</Cyrillic>
+    <Latin>Nasima</Latin>
+    <National>арабск</National>
+    <Description>Насима означает – дуновение легкого ветра, мягкая, легкая  Синоним – Самал  Нафиса (арабское) слово нафиса имеет значение: 1  красивая, прекрасная; 2  нежная, изящная  Нейла (арабское) означает: 1  стремящаяся, добивающаяся цели; 2  дар, награда  </Description>
+    <Raw>Насима (арабское) Насима означает – дуновение легкого ветра, мягкая, легкая. Синоним – Самал. Нафиса (арабское) слово нафиса имеет значение: 1. красивая, прекрасная; 2. нежная, изящная. Нейла (арабское) означает: 1. стремящаяся, добивающаяся цели; 2. дар, награда.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нуржамал</Cyrillic>
+    <Latin>Nurzhamal</Latin>
+    <National>казахск</National>
+    <Description>компонент нур означает – отражение, сияние, луч света  (арабское) жамал – красота, прелесть, миловидность, привлекательность  </Description>
+    <Raw>Нуржамал (казахское) компонент нур означает – отражение, сияние, луч света. (арабское) жамал – красота, прелесть, миловидность, привлекательность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нурзия</Cyrillic>
+    <Latin>Nurziya</Latin>
+    <National>казахск</National>
+    <Description>компонент нур означает – отражение, сияние, луч света  (арабское) слово зия – сияние, блеск, свет  </Description>
+    <Raw>Нурзия (казахское) компонент нур означает – отражение, сияние, луч света. (арабское) слово зия – сияние, блеск, свет.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нурила</Cyrillic>
+    <Latin>Nurila</Latin>
+    <National>арабск</National>
+    <Description>означает – изящная, лучезарная  </Description>
+    <Raw>Нурила (арабское) означает – изящная, лучезарная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нурия</Cyrillic>
+    <Latin>Nuriya</Latin>
+    <National>арабск</National>
+    <Description>Нурия означает – ясная, светлая, красивая  </Description>
+    <Raw>Нурия (арабское) Нурия означает – ясная, светлая, красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нурсаним</Cyrillic>
+    <Latin>Nursanim</Latin>
+    <National>казахск</National>
+    <Description>компонент нур означает – отражение, сияние, луч света  Смысл имени Саним – моя красивая, нарядная, изящная  </Description>
+    <Raw>Нурсаним (казахское) компонент нур означает – отражение, сияние, луч света. Смысл имени Саним – моя красивая, нарядная, изящная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Нурсара</Cyrillic>
+    <Latin>Nursara</Latin>
+    <National>казахск</National>
+    <Description>компонент нур означает – отражение, сияние, луч света  В переводе с древнееврейского сара означает: 1  Избранная, благородная, драгоценная, хорошая, госпожа 2  клятва, присяга  Оразгуль (древнетюркское) ораз означает – счастье, удача  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Нурсара (казахское) компонент нур означает – отражение, сияние, луч света. В переводе с древнееврейского сара означает: 1. Избранная, благородная, драгоценная, хорошая, госпожа 2. клятва, присяга. Оразгуль (древнетюркское) ораз означает – счастье, удача. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Орынгуль</Cyrillic>
+    <Latin>Ory`ngul`</Latin>
+    <National>казахск</National>
+    <Description>орын означает – место  Имя Орын означает, что дочка нашла в жизни смысл жизни, счастье, удовлетворение  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Орынгуль (казахское) орын означает – место. Имя Орын означает, что дочка нашла в жизни смысл жизни, счастье, удовлетворение. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Пахтагуль</Cyrillic>
+    <Latin>Paxtagul`</Latin>
+    <National>персидск</National>
+    <Description>слово пахта – хлопок, белая  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Пахтагуль (персидское) слово пахта – хлопок, белая. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Перизат</Cyrillic>
+    <Latin>Perizat</Latin>
+    <National>персидск</National>
+    <Description>слово пери – фея, с арабского языка зат – красивая, изящная  (казахское) имя Перизат – красивая, красавица  </Description>
+    <Raw>Перизат (персидское) слово пери – фея, с арабского языка зат – красивая, изящная. (казахское) имя Перизат – красивая, красавица.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Пернегуль</Cyrillic>
+    <Latin>Pernegul`</Latin>
+    <National>арабск</National>
+    <Description>перне означает нежное чувство, благодушное настроение  Гуль – цветок, красота, изящество, миловидный  </Description>
+    <Raw>Пернегуль (арабское) перне означает нежное чувство, благодушное настроение. Гуль – цветок, красота, изящество, миловидный.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Перуза</Cyrillic>
+    <Latin>Peruza</Latin>
+    <National>персидск</National>
+    <Description>слово фироуза – победитель, счастливый  </Description>
+    <Raw>Перуза (персидское) слово фироуза – победитель, счастливый.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Рабига</Cyrillic>
+    <Latin>Rabiga</Latin>
+    <National>арабск</National>
+    <Description>Рабига имеет несколько значений: 1  беспечная; 2  весна; 3  товарищ, компаньон; 4  четвертая дочь в семье  </Description>
+    <Raw>Рабига (арабское) Рабига имеет несколько значений: 1. беспечная; 2. весна; 3. товарищ, компаньон; 4. четвертая дочь в семье.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Рабия</Cyrillic>
+    <Latin>Rabiya</Latin>
+    <National>арабск</National>
+    <Description>Рабия имеет значения: 1  воспитывающая; 2  четвертый месяц арабского календаря  Радия (арабское) имя Радия означает – избранница  Эпитет Фатимы, дочери Мухаммеда  </Description>
+    <Raw>Рабия (арабское) Рабия имеет значения: 1. воспитывающая; 2. четвертый месяц арабского календаря. Радия (арабское) имя Радия означает – избранница. Эпитет Фатимы, дочери Мухаммеда.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Разида</Cyrillic>
+    <Latin>Razida</Latin>
+    <National>арабск</National>
+    <Description>имя Разида происходит от слова рази, означает «удовлетворение»  </Description>
+    <Raw>Разида (арабское) имя Разида происходит от слова рази, означает «удовлетворение».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Разия</Cyrillic>
+    <Latin>Raziya</Latin>
+    <National>арабск</National>
+    <Description>Разия имеет значения: 1  приятная; 2  любимая, довольная  Раиля (персидское) Раиля – настроение, дух, моральное положение  </Description>
+    <Raw>Разия (арабское) Разия имеет значения: 1. приятная; 2. любимая, довольная. Раиля (персидское) Раиля – настроение, дух, моральное положение.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Раиса</Cyrillic>
+    <Latin>Raisa</Latin>
+    <National>греческ</National>
+    <Description>имя Раиса – мягкая, покорная, уступчивая  </Description>
+    <Raw>Раиса (греческое) имя Раиса – мягкая, покорная, уступчивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Райгуль</Cyrillic>
+    <Latin>Rajgul`</Latin>
+    <National>казахск</National>
+    <Description>имя Райгуль – райский цветок  Самая красивая  </Description>
+    <Raw>Райгуль (казахское) имя Райгуль – райский цветок. Самая красивая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сабила</Cyrillic>
+    <Latin>Sabila</Latin>
+    <National>арабск</National>
+    <Description>сабила означает – дорогая, путешествие  </Description>
+    <Raw>Сабила (арабское) сабила означает – дорогая, путешествие.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сабира</Cyrillic>
+    <Latin>Sabira</Latin>
+    <National>арабск</National>
+    <Description>происходит от слова сабир, что означает – терпеливая, выносливая, спокойная  </Description>
+    <Raw>Сабира (арабское) происходит от слова сабир, что означает – терпеливая, выносливая, спокойная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сагида</Cyrillic>
+    <Latin>Sagida</Latin>
+    <National>арабск</National>
+    <Description>Сагида означает – успех, счастливая, зажиточная  </Description>
+    <Raw>Сагида (арабское) Сагида означает – успех, счастливая, зажиточная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сагила</Cyrillic>
+    <Latin>Sagila</Latin>
+    <National>арабск</National>
+    <Description>означает – зеленоглазая, красивые глаза  </Description>
+    <Raw>Сагила (арабское) означает – зеленоглазая, красивые глаза.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сагира</Cyrillic>
+    <Latin>Sagira</Latin>
+    <National>арабск</National>
+    <Description>означает – послушная, уважающая, самая маленькая  </Description>
+    <Raw>Сагира (арабское) означает – послушная, уважающая, самая маленькая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сагия</Cyrillic>
+    <Latin>Sagiya</Latin>
+    <National>арабск</National>
+    <Description>означает — «девушка» Саида (арабское) означает – счастливая, властная, успешная  </Description>
+    <Raw>Сагия (арабское) означает — «девушка» Саида (арабское) означает – счастливая, властная, успешная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сайра</Cyrillic>
+    <Latin>Sajra</Latin>
+    <National>казахск</National>
+    <Description>имя Сайра означает – пой, веселись  </Description>
+    <Raw>Сайра (казахское) имя Сайра означает – пой, веселись.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Салиха</Cyrillic>
+    <Latin>Salixa</Latin>
+    <National>арабск</National>
+    <Description>означает – честная, добрая, достойная  </Description>
+    <Raw>Салиха (арабское) означает – честная, добрая, достойная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Салтанат</Cyrillic>
+    <Latin>Saltanat</Latin>
+    <National>арабск</National>
+    <Description>слово салтанат имеет значения: 1  королевство, правление, царствование 2  гордость, богатство 3  блеск, великолепие, роскошь  (казахское) это имя означает «торжество», «парадность»  </Description>
+    <Raw>Салтанат (арабское) слово салтанат имеет значения: 1. королевство, правление, царствование 2. гордость, богатство 3. блеск, великолепие, роскошь. (казахское) это имя означает «торжество», «парадность».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Самал</Cyrillic>
+    <Latin>Samal</Latin>
+    <National>казахск</National>
+    <Description>самал означает – веетерок, легкий ветер  </Description>
+    <Raw>Самал (казахское) самал означает – веетерок, легкий ветер.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Смысл</Cyrillic>
+    <Latin>Smy`sl</Latin>
+    <National>имен</National>
+    <Description>– приятная, нежная  Самира (арабское) означает — «собеседник» Самия (персидское) слово сам или шам означает – вечер, сумерки, с арабского языка имя Самига – слушатель, ученик  </Description>
+    <Raw>Смысл имени – приятная, нежная. Самира (арабское) означает — «собеседник» Самия (персидское) слово сам или шам означает – вечер, сумерки, с арабского языка имя Самига – слушатель, ученик.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сана</Cyrillic>
+    <Latin>Sana</Latin>
+    <National>казахск</National>
+    <Description>имя Сана означает – сознание, мысль, умная  </Description>
+    <Raw>Сана (казахское) имя Сана означает – сознание, мысль, умная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сания</Cyrillic>
+    <Latin>Saniya</Latin>
+    <National>арабск</National>
+    <Description>имя Сания означает — «второй ребенок» Сапия (арабское) слово сафи означает – чистый, ясный, блестящий  </Description>
+    <Raw>Сания (арабское) имя Сания означает — «второй ребенок» Сапия (арабское) слово сафи означает – чистый, ясный, блестящий.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сафура</Cyrillic>
+    <Latin>Safura</Latin>
+    <National>арабск</National>
+    <Description>слово сабура означает – терпеливая, стойкая  </Description>
+    <Raw>Сафура (арабское) слово сабура означает – терпеливая, стойкая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Сая</Cyrillic>
+    <Latin>Saya</Latin>
+    <National>казахск</National>
+    <Description>означает – тень, то есть покровительство, защита  </Description>
+    <Raw>Сая (казахское) означает – тень, то есть покровительство, защита.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Саягуль</Cyrillic>
+    <Latin>Sayagul`</Latin>
+    <National>казахск</National>
+    <Description>сая означает – тень, то есть покровительство, защита  Гуль — цветок, красота, изящество, миловидность  Сулу (казахское) сулу означает – красивая, изящная, привлекательная  </Description>
+    <Raw>Саягуль (казахское) сая означает – тень, то есть покровительство, защита. Гуль — цветок, красота, изящество, миловидность. Сулу (казахское) сулу означает – красивая, изящная, привлекательная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Табиба</Cyrillic>
+    <Latin>Tabiba</Latin>
+    <National>арабск</National>
+    <Description>означает – лекарь, врач  </Description>
+    <Raw>Табиба (арабское) означает – лекарь, врач.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Табила</Cyrillic>
+    <Latin>Tabila</Latin>
+    <National>арабск</National>
+    <Description>означает – долгая, длинная жизнь  </Description>
+    <Raw>Табила (арабское) означает – долгая, длинная жизнь.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Табия</Cyrillic>
+    <Latin>Tabiya</Latin>
+    <National>арабск</National>
+    <Description>слово табиа означает – укрепление, крепость, защита  </Description>
+    <Raw>Табия (арабское) слово табиа означает – укрепление, крепость, защита.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Тажигуль</Cyrillic>
+    <Latin>Tazhigul`</Latin>
+    <National>арабск</National>
+    <Description>слово таж означает – корона, венец  Гул – цветок, красота, изящество  Миловидный  Тамара (древнееврейское) имя Тамара означает «финиковая пальма»  </Description>
+    <Raw>Тажигуль (арабское) слово таж означает – корона, венец. Гул – цветок, красота, изящество. Миловидный. Тамара (древнееврейское) имя Тамара означает «финиковая пальма».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Тамила</Cyrillic>
+    <Latin>Tamila</Latin>
+    <National>арабск</National>
+    <Description>означает – горная голубка  </Description>
+    <Raw>Тамила (арабское) означает – горная голубка.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Танзила</Cyrillic>
+    <Latin>Tanzila</Latin>
+    <National>арабск</National>
+    <Description>слово танзила означает: 1) прибыль, польза 2) обработка, украшать, вознаграждать  </Description>
+    <Raw>Танзила (арабское) слово танзила означает: 1) прибыль, польза 2) обработка, украшать, вознаграждать.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Танзия</Cyrillic>
+    <Latin>Tanziya</Latin>
+    <National>арабск</National>
+    <Description>означает – чистота, честность  </Description>
+    <Raw>Танзия (арабское) означает – чистота, честность.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Тотты</Cyrillic>
+    <Latin>Totty`</Latin>
+    <National>казахск</National>
+    <Description>имя означает – красивая, миловидная, привлекательный вид  </Description>
+    <Raw>Тотты (казахское) имя означает – красивая, миловидная, привлекательный вид.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Уасима</Cyrillic>
+    <Latin>Uasima</Latin>
+    <National>арабск</National>
+    <Description>слово васима означает – красивая, милая, прекрасная, миловидная Убайда (арабское) Убайда имеет значение «непокорная»  </Description>
+    <Raw>Уасима (арабское) слово васима означает – красивая, милая, прекрасная, миловидная Убайда (арабское) Убайда имеет значение «непокорная».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Фарида</Cyrillic>
+    <Latin>Farida</Latin>
+    <National>арабск</National>
+    <Description>это имя имеет значения – жемчуг, редчайшая, бесподобная  </Description>
+    <Raw>Фарида (арабское) это имя имеет значения – жемчуг, редчайшая, бесподобная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Фариза</Cyrillic>
+    <Latin>Fariza</Latin>
+    <National>арабск</National>
+    <Description>слово фарз означает – обязанность, долг, требование, предписание  </Description>
+    <Raw>Фариза (арабское) слово фарз означает – обязанность, долг, требование, предписание.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Фатима</Cyrillic>
+    <Latin>Fatima</Latin>
+    <National>арабск</National>
+    <Description>означает «отнятая от груди»  </Description>
+    <Raw>Фатима (арабское) означает «отнятая от груди».</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Фатиха</Cyrillic>
+    <Latin>Fatixa</Latin>
+    <National>арабск</National>
+    <Description>означает – благословение, пожелание  </Description>
+    <Raw>Фатиха (арабское) означает – благословение, пожелание.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Феруза</Cyrillic>
+    <Latin>Feruza</Latin>
+    <National>иранск</National>
+    <Description>означает – счастливая, лучезарная  </Description>
+    <Raw>Феруза (иранское) означает – счастливая, лучезарная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халида</Cyrillic>
+    <Latin>Xalida</Latin>
+    <National>арабск</National>
+    <Description>Халида имеет значения – долгоживущая  </Description>
+    <Raw>Халида (арабское) Халида имеет значения – долгоживущая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халила</Cyrillic>
+    <Latin>Xalila</Latin>
+    <National>арабск</National>
+    <Description>Халила означает – надежная подруга  </Description>
+    <Raw>Халила (арабское) Халила означает – надежная подруга.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халима</Cyrillic>
+    <Latin>Xalima</Latin>
+    <National>арабск</National>
+    <Description>халима означает – добрая, мягкая  </Description>
+    <Raw>Халима (арабское) халима означает – добрая, мягкая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халипа</Cyrillic>
+    <Latin>Xalipa</Latin>
+    <National>арабск</National>
+    <Description>наместник, преемница  </Description>
+    <Raw>Халипа (арабское) наместник, преемница.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халиса</Cyrillic>
+    <Latin>Xalisa</Latin>
+    <National>арабск</National>
+    <Description>означает – чистая без примеси, честная  </Description>
+    <Raw>Халиса (арабское) означает – чистая без примеси, честная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халифа</Cyrillic>
+    <Latin>Xalifa</Latin>
+    <National>арабск</National>
+    <Description>это имя имеет значение – заместитель, помощник  </Description>
+    <Raw>Халифа (арабское) это имя имеет значение – заместитель, помощник.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Халия</Cyrillic>
+    <Latin>Xaliya</Latin>
+    <National>арабск</National>
+    <Description>слово хал означает – обстоятельство, случай  </Description>
+    <Raw>Халия (арабское) слово хал означает – обстоятельство, случай.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Хамида</Cyrillic>
+    <Latin>Xamida</Latin>
+    <National>арабск</National>
+    <Description>означает – прославляемая, славящая  </Description>
+    <Raw>Хамида (арабское) означает – прославляемая, славящая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Ханифа</Cyrillic>
+    <Latin>Xanifa</Latin>
+    <National>арабск</National>
+    <Description>означает – истинная, честная  </Description>
+    <Raw>Ханифа (арабское) означает – истинная, честная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Хафиза</Cyrillic>
+    <Latin>Xafiza</Latin>
+    <National>арабск</National>
+    <Description>Хафиза означает — защитница, оберегающая  </Description>
+    <Raw>Хафиза (арабское) Хафиза означает — защитница, оберегающая.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шакира</Cyrillic>
+    <Latin>Shakira</Latin>
+    <National>арабск</National>
+    <Description>добрая, благородная, милосердная  </Description>
+    <Raw>Шакира (арабское) добрая, благородная, милосердная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шаризат</Cyrillic>
+    <Latin>Sharizat</Latin>
+    <National>персидск</National>
+    <Description>Шарази  —  «счастье», «радость»  Зат – сокращенная форма слово зада, что означает дитя, ребенок  </Description>
+    <Raw>Шаризат (персидское) Шарази  —  «счастье», «радость». Зат – сокращенная форма слово зада, что означает дитя, ребенок.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шагиля</Cyrillic>
+    <Latin>Shagilya</Latin>
+    <National>арабск</National>
+    <Description>слово шагила означает – благосклонная, аккуратная, внимательная, благоразумная  </Description>
+    <Raw>Шагиля (арабское) слово шагила означает – благосклонная, аккуратная, внимательная, благоразумная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шархия</Cyrillic>
+    <Latin>Sharxiya</Latin>
+    <National>арабск</National>
+    <Description>имеет значения: 1  девушка востока 2  счастливая, удачная  </Description>
+    <Raw>Шархия (арабское) имеет значения: 1. девушка востока 2. счастливая, удачная.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шахбану</Cyrillic>
+    <Latin>Shaxbanu</Latin>
+    <National>персидск</National>
+    <Description>шах означает – царь, правитель  (персидское) бану – девушка  Бану служило компонентом для образования женских имен  В прошлом жену правителя называли шахрбану  </Description>
+    <Raw>Шахбану (персидское) шах означает – царь, правитель. (персидское) бану – девушка. Бану служило компонентом для образования женских имен. В прошлом жену правителя называли шахрбану.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+  <MenName>
+    <Cyrillic>Шахия</Cyrillic>
+    <Latin>Shaxiya</Latin>
+    <National>персидск</National>
+    <Description>Шахия имеет значения: 1  принадлежащая шаху 2  самое хорошее, отборное, лучшее  </Description>
+    <Raw>Шахия (персидское) Шахия имеет значения: 1. принадлежащая шаху 2. самое хорошее, отборное, лучшее.</Raw>
+    <Gender>FEMALE</Gender>
+    <Frequency>0</Frequency>
+    <Views>0</Views>
+  </MenName>
+</ArrayOfMenName>
